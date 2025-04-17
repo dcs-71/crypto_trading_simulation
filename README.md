@@ -2,7 +2,7 @@
 #### Description:
 This program is a cryptocurrency trading simulator. It works via the command-line. You can set a specific amount of USD for you portfolio and then use it to buy different cryptocurrencies which you can later sell. You can also check your portfolio balance and deposit extra USD to invest if you want. Read the Command-line arguments and instructions for more info on how to use it.
 
-This is the second version of this project. It has been updated to use a sql database instead of a csv file. It was built using the argparse, requests, sqlite3, sys and tabulate libraries. It uses the coincap v3 API, since the coincap V2 API got deprecated(This new version of the coincap API requires an API Key).
+This is the second version of this project. It has been updated to use an SQL database instead of a csv file. It was built using the argparse, requests, sqlite3, sys and tabulate libraries. It uses the coincap v3 API, since the coincap V2 API got deprecated (This new version of the coincap API requires an API Key).
 
 
 ## Command-line Arguments
